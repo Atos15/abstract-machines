@@ -14,9 +14,13 @@ A project where I implement every abstract machine I encounter throughout my uni
 
 ### Features
 
-* [ ] Types & Structures
-* [ ] Reading string
-* [ ] Stepper & Snapshot & History
-* [ ] Transducer
+Extend FSA features:
+* [ ] Stack based transition
+* [ ] Epsilon-moves 
 
 ## Turing-Machine (TM)
+
+## Features
+Extends PDA features:
+* [ ] Memory tape operations
+* [ ] Tape based transitions
