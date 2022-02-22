@@ -1,0 +1,26 @@
+{
+  "name": "abstract-machines",
+  "version": "1.0.0",
+  "description": "A project where I implement every abstract machine I encounter throughout my university course.",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tsc --watch",
+    "dev-start": "node dist/index.js",
+    "start": "npx tsc && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atos15/abstract-machines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atos15/abstract-machines/issues"
+  },
+  "homepage": "https://github.com/Atos15/abstract-machines#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
