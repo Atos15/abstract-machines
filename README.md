@@ -9,18 +9,25 @@ A project where I implement every abstract machine I encounter throughout my uni
 * [x] Reading string
 * [ ] Stepper & Snapshot & History
 * [ ] Transducer
+* [ ] Tests
+  * [ ] Creation
+  * [ ] Accepting
+  * [ ] Stepper
+  * [ ] Snapshot
+  * [ ] History 
 
 ## Pushdown Automata (PDA)
 
 ### Features
 
 Extend FSA features:
-* [ ] Stack based transition
-* [ ] Epsilon-moves 
+* [x] Stack based transition
+* [x] Epsilon-moves
 
 ## Turing-Machine (TM)
 
 ## Features
+
 Extends PDA features:
 * [ ] Memory tape operations
 * [ ] Tape based transitions
