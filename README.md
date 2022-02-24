@@ -6,7 +6,7 @@ A project where I implement every abstract machine I encounter throughout my uni
 ### Features
 
 * [x] Types & Structures
-* [ ] Reading string
+* [x] Reading string
 * [ ] Stepper & Snapshot & History
 * [ ] Transducer
 
