@@ -10,8 +10,8 @@ A project where I implement every abstract machine I encounter throughout my uni
 * [ ] Stepper & Snapshot & History
 * [ ] Transducer
 * [ ] Tests
-  * [ ] Creation
-  * [ ] Accepting
+  * [x] Creation
+  * [x] Accepting
   * [ ] Stepper
   * [ ] Snapshot
   * [ ] History 
